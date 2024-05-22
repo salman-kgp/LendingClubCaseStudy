@@ -7,7 +7,7 @@ We have a consumer finance company which specialises in lending various types of
 * If the applicant is **likely to repay the loan**, then not approving the loan results in a **loss of business** to the company
 * If the applicant is **not likely to repay the loan**, i.e. he/she is likely to default, then approving the loan may lead to a **financial loss** for the company
 
-Our goal here is to help this finance company to make good decisions to minimise the risk. This can be done by understanding and anlysing the historical data that this financial institution is willing to provide.
+Our goal here is to help this finance company to make good decisions to minimise the risk. This can be done by understanding and analysing the historical data that this financial institution is willing to provide.
 
 ## Business Understanding
 The finance compnay has provided historical data which provides various inputs related to loans they have offered including few behavioural attributes of loan applicants. 
