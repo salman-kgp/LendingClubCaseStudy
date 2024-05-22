@@ -10,17 +10,19 @@ We have a consumer finance company which specialises in lending various types of
 Our goal here is to help this finance company to make good decisions to minimise the risk. This can be done by understanding and analysing the historical data that this financial institution is willing to provide.
 
 ## Business Understanding
-The finance compnay has provided historical data which provides various inputs related to loans they have offered including few behavioural attributes of loan applicants. 
-Data can looked at [here](https://github.com/salman-kgp/LendingClubCaseStudy/tree/main/Data) and data disctionary which explains what each if the columns mean can be found [here](https://github.com/salman-kgp/LendingClubCaseStudy/tree/main/Data)
+The finance company has provided historical data which provides various inputs related to loans they have offered including few behavioural attributes of loan applicants. 
+Data can looked at [here](https://github.com/salman-kgp/LendingClubCaseStudy/tree/main/Data) and data dictionary which explains 
+what each of the columns mean can be found [here](https://github.com/salman-kgp/LendingClubCaseStudy/tree/main/Data)
 
-The data provided consists of loan attributes like loan amount , funded amount , interest rate , isueed data etc.
-The data also provides certain glimpse into customers demographic and financial situation using attributes like address , debt to income ration, revol balance , publicly recorded bankruptcies , details related to delinquecy in past 2years etc.
-For each of loan application , loan status is also provided whic denotes 
+The data provided consists of loan attributes like loan amount , funded amount , interest rate , issued data etc. The data also provides certain glimpse into customers demographic and financial situation using attributes like address , debt to income ratio, revol balance , publicly recorded bankruptcies , details related to delinquency in past 2 years etc. For each of loan application , loan status is also provided which denotes
 1. Loan was fully paid
 2. Current status i.e payments are still on going
 3. Charged off i.e the loan applicant has default and is a loss to the bank.
 
-The prime objective of this assignment is the identify the pattenrs using Exporatory Data Analysis and help the bank to make profitable decisions.
+The prime objective of this assignment is the identify the patterns using Exploratory Data Analysis and help the bank to make profitable decisions.
+
+
+
 
 ## Technologies Used
 - Python - version 3.11.7
